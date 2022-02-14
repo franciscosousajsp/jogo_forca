@@ -1,6 +1,6 @@
 package aplicacao;
 
-import java.util.Iterator;
+
 import java.util.Scanner;
 
 import entidade.Forca;
@@ -36,6 +36,7 @@ public class Principal {
 
 		}
 
+		sc.close();
 	}
 
 }
